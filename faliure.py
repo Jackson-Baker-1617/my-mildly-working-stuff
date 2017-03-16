@@ -1,0 +1,3 @@
+from turtle import *
+write("You lost. You really, really lost. You got decimated. There is no honor. You have no reperations. There is no silver lining. You got creamed.",font=("Comic Sans MS",10,"normal"),align='left')
+write("Is this how you had hoped it would go? Of course not, no one likes losing.Why would you even try that? And guess what, trying again wont help you, you massive, unsubstantial faliure.Don't try again. You've lost, maintain what you have and accept it. Complaining wont help you. You disgrace, you poision the good name of farkle. Go home you mistake.",font=("Comic Sans MS",10,"normal"),align='left')
