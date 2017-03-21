@@ -1,0 +1,200 @@
+/*BASIC*/
+
+.mainmanDOGS{
+	font-size: 5px;
+	font-weight: 100;
+	font-family: "Brush Script MT";
+	color: #c6d43c;
+	text-align: center;}
+.mainmanrandysavage{
+	font-size:50px;
+	font-family:"Chalkboard";
+	text-align: center;}
+.mainmansavagetwo{
+	text-align: center;
+	font-family:"Chalkboard";
+	color:green;
+	font-size:50px;}
+.mainmanlinkloveandlife{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanlinkfroggy{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanjaad{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanmusical{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmansecretshrek{
+	text-align:right;
+	font-family:"Comic Sans MS";
+	color:orange;
+	font-size:2px;}
+.mainmanohcuckada{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanSPIDER{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanduck{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanangryspider{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmaneducationspider{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanterror{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanear{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+/*/SHREKTACULAR*/
+
+.textshrek{
+	font-size:80px;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	color:Pink;}
+.titleshrek{
+	font-size:10px;
+	font-weight:200;
+	font-family:"Blackoak STD";
+	color:orange;}
+.subtitleshrek{
+	font-size:5px;
+	font-weight:100;
+	font-family:"Baghdad";
+	color:white;}
+.creditshrek{
+	color: #0FFFBB;
+	font-family:"Comic Sans MS";}
+.linkclassicshrek{
+	text-align:right;
+	font-family:"Comic Sans MS";
+	color:green;
+	font-size:1px;}
+/*FROGGY!*/
+
+.froggytop{
+	font-size: 60px;
+	color:gray;
+	text-align: center;}
+.froggytwo{
+	text-align: left;
+	color:red;
+	font-size: 70px;}
+.froggythree{
+	text-align: right;
+	color:orange;
+	font-size: 40px;
+	font-family:"Papyrus";}
+.froggytrump{
+	text-align:center;
+	font-weight:100;
+	font-size: 50px;
+	font-family:"Times New Roman";
+	color:pink}
+.froggyclinton{
+	text-align:left;
+	font-weight:500;
+	font-size: 60px;
+	font-family:"Comic Sans MS";
+	color:blue}
+.froggygod{
+	text-align:center;
+	font-weight:800;
+	font-size: 30px;
+	font-family:"helvetica";
+	color:black}
+.froggyabove{
+	text-align:center;
+	font-weight:500;
+	font-size: 100px;
+	font-family:"Comic Sans MS";
+	color:#00FF00}
+/*Doggy
+body{
+	background-image: url("angrydog.jpg");
+	background-image: no-repeat;}*/
+
+/*spooders*/
+.spooder{
+	text-align:center;
+	font-size: 90px;
+	font-family:"Comic Sans MS";
+	color:#ff66ff;}
+.spooder2{
+	text-align:center;
+	font-size: 90px;
+	font-family:"Comic Sans MS";
+	color:#ff66ff;}
+.spoodersad{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:60px;}
+/*you monster*/
+.verysad{
+	font-size: 50px;
+	font-family:"Charlemagne Std Bold";
+	text-align:center;
+	color:black;
+	/*GET IT CAUSE HES FEELING BLUE CAUSE YOU DESTROYED HIS HAPPINESS*/
+	/*note: it used to be blue text. blue text is trash.*/}
+/*classicshrek*/
+.classicshrek{
+	font-size:80px;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	color:pink;
+	background-color:orange;}	
+/*angryspider*/
+.angryspider{
+	font-size: 30px;
+	text-align:center;
+	color:black;
+	font-weight:800;}
+/*smartspider*/
+.educationspider{
+	font-size:25px;
+	font-family:"Times New Roman";
+	color: white;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
+.educationspidersource{
+	font-size:10px;
+	font-family:"Times New Roman";}
+	
+
+/*secretshrek*/
+.secretshrek{
+	text-align: center;
+	color: red;
+	font-family:"Comic Sans MS";
+	font-size: 70px;}	
